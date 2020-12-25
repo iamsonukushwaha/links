@@ -1,6 +1,5 @@
-> <p style="text-align:center"><strong>All Links</strong> <i>here</i> </p>
+> **All Links** here
 
-<br>
 
 https://flyingsonu122.netlify.app/
 
@@ -71,7 +70,7 @@ https://www.sololearn.com/Profile/16976820
 
 <br><br>
 
-> <p style="text-align:center"><strong>Check out</strong> </p>
+> **Check out**
 
 
 <br><br><br><br><br><br>
