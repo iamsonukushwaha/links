@@ -45,8 +45,6 @@
 
 [https://scratch.mit.edu/users/cs3763100/](https://scratch.mit.edu/users/cs3763100/)
 
-[https://google.dev/u/104263486579126175123](https://google.dev/u/104263486579126175123)
-
 [https://www.slideshare.net/Sonukumarkushwaha1](https://www.slideshare.net/Sonukumarkushwaha1)
 
 [https://codepen.io/flyingsonu736](https://codepen.io/flyingsonu736)
