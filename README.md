@@ -17,10 +17,6 @@
 
 [https://dev.to/flyingsonu122](https://dev.to/flyingsonu122)
 
-[https://news.ycombinator.com/user?id=flyingsonu](https://news.ycombinator.com/user?id=flyingsonu)
-
-[https://sourcerer.io/flyingsonu122](https://sourcerer.io/flyingsonu122)
-
 [https://www.linkedin.com/in/sonukumarkushwaha/](https://www.linkedin.com/in/sonukumarkushwaha/)
 
 [https://keybase.io/flyingsonu736](https://keybase.io/flyingsonu736)
@@ -34,10 +30,6 @@
 [https://medium.com/@sonukumarkushwaha](https://medium.com/@sonukumarkushwaha)
 
 [https://www.yourquote.in/sonukumarkushwaha](https://www.yourquote.in/sonukumarkushwaha)
-
-[https://www.quora.com/profile/Sonu-Kumar-Kushwaha-12](https://www.quora.com/profile/Sonu-Kumar-Kushwaha-12)
-
-[https://unacademy.com/@flyingsonu736-7835](https://unacademy.com/@flyingsonu736-7835)
 
 [https://in.pinterest.com/sonukumarkushwaha736/](https://in.pinterest.com/sonukumarkushwaha736/)
 
