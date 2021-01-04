@@ -15,8 +15,6 @@
 
 [https://singlebucks.blogspot.com/](https://singlebucks.blogspot.com/)
 
-[https://dev.to/flyingsonu122](https://dev.to/flyingsonu122)
-
 [https://www.linkedin.com/in/sonukumarkushwaha/](https://www.linkedin.com/in/sonukumarkushwaha/)
 
 [https://keybase.io/flyingsonu736](https://keybase.io/flyingsonu736)
