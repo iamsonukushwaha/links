@@ -11,6 +11,8 @@
 
 [https://linktr.ee/flyingsonu](https://linktr.ee/flyingsonu)
 
+[https://www.npmjs.com/~flyingsonu736](https://www.npmjs.com/~flyingsonu736)
+
 [https://gitstats.me/flyingsonu122](https://gitstats.me/flyingsonu122)
 
 [https://singlebucks.blogspot.com/](https://singlebucks.blogspot.com/)
