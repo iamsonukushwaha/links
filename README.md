@@ -53,6 +53,10 @@
 
 [https://stackoverflow.com/users/12747159/flyingsonu736](https://stackoverflow.com/users/12747159/flyingsonu736)
 
+[https://stackoverflow.com/story/flyingsonu](https://stackoverflow.com/story/flyingsonu)
+
+[https://stackoverflow.com/cv/flyingsonu](https://stackoverflow.com/cv/flyingsonu)
+
 [https://gitlab.com/flyingsonu736](https://gitlab.com/flyingsonu736)
 
 [https://hashnode.com/@flyingsonu736](https://hashnode.com/@flyingsonu736)
