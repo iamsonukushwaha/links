@@ -3,7 +3,7 @@
 
 <br>
 
-[flyingsonu122.netlify.app/](https://flyingsonu122.netlify.app/)
+[flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
 
 [github.com/flyingsonu122](https://github.com/flyingsonu122)
 
@@ -17,15 +17,15 @@
 
 [gitstats.me/flyingsonu122](https://gitstats.me/flyingsonu122)
 
-[singlebucks.blogspot.com/](https://singlebucks.blogspot.com/)
+[singlebucks.blogspot.com](https://singlebucks.blogspot.com/)
 
-[linkedin.com/in/sonukumarkushwaha/](https://www.linkedin.com/in/sonukumarkushwaha/)
+[linkedin.com/in/sonukumarkushwaha](https://www.linkedin.com/in/sonukumarkushwaha/)
 
 [keybase.io/flyingsonu736](https://keybase.io/flyingsonu736)
 
 [plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
 
-[instagram.com/flyingsonu736/](https://www.instagram.com/flyingsonu736/)
+[instagram.com/flyingsonu736](https://www.instagram.com/flyingsonu736/)
 
 [facebook.com/sonukumarkushwaha736](https://www.facebook.com/sonukumarkushwaha736)
 
@@ -33,13 +33,13 @@
 
 [yourquote.in/sonukumarkushwaha](https://www.yourquote.in/sonukumarkushwaha)
 
-[pinterest.com/sonukumarkushwaha736/](https://in.pinterest.com/sonukumarkushwaha736/)
+[pinterest.com/sonukumarkushwaha736](https://in.pinterest.com/sonukumarkushwaha736/)
 
 [kooapp.com/profile/SonuKumarKushwaha](https://www.kooapp.com/profile/SonuKumarKushwaha)
 
 [glitch.com/@flyingsonu736](https://glitch.com/@flyingsonu736)
 
-[scratch.mit.edu/users/cs3763100/](https://scratch.mit.edu/users/cs3763100/)
+[scratch.mit.edu/users/cs3763100](https://scratch.mit.edu/users/cs3763100/)
 
 [slideshare.net/Sonukumarkushwaha1](https://www.slideshare.net/Sonukumarkushwaha1)
 
@@ -67,7 +67,7 @@
 
 [dev.to/flyingsonu122](https://dev.to/flyingsonu122)
 
-[flyingsonu736.hashnode.dev/](https://flyingsonu736.hashnode.dev/)
+[flyingsonu736.hashnode.dev](https://flyingsonu736.hashnode.dev/)
 
 [freecodecamp.org/flyingsonu](https://www.freecodecamp.org/flyingsonu)
 
