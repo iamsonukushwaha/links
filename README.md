@@ -3,74 +3,75 @@
 
 <br>
 
-[https://flyingsonu122.netlify.app/](https://flyingsonu122.netlify.app/)
+[flyingsonu122.netlify.app/](https://flyingsonu122.netlify.app/)
 
-[https://github.com/flyingsonu122](https://github.com/flyingsonu122)
+[github.com/flyingsonu122](https://github.com/flyingsonu122)
 
-[https://twitter.com/sonukumarkush12](https://twitter.com/sonukumarkush12)
+[twitter.com/sonukumarkush12](https://twitter.com/sonukumarkush12)
 
-[https://linktr.ee/flyingsonu](https://linktr.ee/flyingsonu)
+[linktr.ee/flyingsonu](https://linktr.ee/flyingsonu)
 
-[https://www.npmjs.com/~flyingsonu736](https://www.npmjs.com/~flyingsonu736)
+[npmjs.com/~flyingsonu736](https://www.npmjs.com/~flyingsonu736)
 
-[https://devpost.com/flyingsonu736](https://devpost.com/flyingsonu736)
+[devpost.com/flyingsonu736](https://devpost.com/flyingsonu736)
 
-[https://gitstats.me/flyingsonu122](https://gitstats.me/flyingsonu122)
+[gitstats.me/flyingsonu122](https://gitstats.me/flyingsonu122)
 
-[https://singlebucks.blogspot.com/](https://singlebucks.blogspot.com/)
+[singlebucks.blogspot.com/](https://singlebucks.blogspot.com/)
 
-[https://www.linkedin.com/in/sonukumarkushwaha/](https://www.linkedin.com/in/sonukumarkushwaha/)
+[linkedin.com/in/sonukumarkushwaha/](https://www.linkedin.com/in/sonukumarkushwaha/)
 
-[https://keybase.io/flyingsonu736](https://keybase.io/flyingsonu736)
+[keybase.io/flyingsonu736](https://keybase.io/flyingsonu736)
 
-[https://plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
+[plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
 
-[https://www.instagram.com/flyingsonu736/](https://www.instagram.com/flyingsonu736/)
+[instagram.com/flyingsonu736/](https://www.instagram.com/flyingsonu736/)
 
-[https://www.facebook.com/sonukumarkushwaha736](https://www.facebook.com/sonukumarkushwaha736)
+[facebook.com/sonukumarkushwaha736](https://www.facebook.com/sonukumarkushwaha736)
 
-[https://medium.com/@sonukumarkushwaha](https://medium.com/@sonukumarkushwaha)
+[medium.com/@sonukumarkushwaha](https://medium.com/@sonukumarkushwaha)
 
-[https://www.yourquote.in/sonukumarkushwaha](https://www.yourquote.in/sonukumarkushwaha)
+[yourquote.in/sonukumarkushwaha](https://www.yourquote.in/sonukumarkushwaha)
 
-[https://in.pinterest.com/sonukumarkushwaha736/](https://in.pinterest.com/sonukumarkushwaha736/)
+[pinterest.com/sonukumarkushwaha736/](https://in.pinterest.com/sonukumarkushwaha736/)
 
-[https://www.kooapp.com/profile/SonuKumarKushwaha](https://www.kooapp.com/profile/SonuKumarKushwaha)
+[kooapp.com/profile/SonuKumarKushwaha](https://www.kooapp.com/profile/SonuKumarKushwaha)
 
-[https://glitch.com/@flyingsonu736](https://glitch.com/@flyingsonu736)
+[glitch.com/@flyingsonu736](https://glitch.com/@flyingsonu736)
 
-[https://scratch.mit.edu/users/cs3763100/](https://scratch.mit.edu/users/cs3763100/)
+[scratch.mit.edu/users/cs3763100/](https://scratch.mit.edu/users/cs3763100/)
 
-[https://www.slideshare.net/Sonukumarkushwaha1](https://www.slideshare.net/Sonukumarkushwaha1)
+[slideshare.net/Sonukumarkushwaha1](https://www.slideshare.net/Sonukumarkushwaha1)
 
-[https://codepen.io/flyingsonu736](https://codepen.io/flyingsonu736)
+[codepen.io/flyingsonu736](https://codepen.io/flyingsonu736)
 
-[https://repl.it/@flyingsonu736](https://repl.it/@flyingsonu736)
+[repl.it/@flyingsonu736](https://repl.it/@flyingsonu736)
 
-[https://wa.me/919931060093](https://wa.me/919931060093)
+[wa.me/919931060093](https://wa.me/919931060093)
 
-[https://codesandbox.io/u/flyingsonu122](https://codesandbox.io/u/flyingsonu122)
+[codesandbox.io/u/flyingsonu122](https://codesandbox.io/u/flyingsonu122)
 
-[https://stackoverflow.com/users/12747159/flyingsonu736](https://stackoverflow.com/users/12747159/flyingsonu736)
+[stackoverflow.com/users/12747159/flyingsonu736](https://stackoverflow.com/users/12747159/flyingsonu736)
 
-[https://stackoverflow.com/story/flyingsonu](https://stackoverflow.com/story/flyingsonu)
+[stackoverflow.com/story/flyingsonu](https://stackoverflow.com/story/flyingsonu)
 
-[https://stackoverflow.com/cv/flyingsonu](https://stackoverflow.com/cv/flyingsonu)
+[stackoverflow.com/cv/flyingsonu](https://stackoverflow.com/cv/flyingsonu)
 
-[https://codeforces.com/profile/flyingsonu](https://codeforces.com/profile/flyingsonu)
+[codeforces.com/profile/flyingsonu](https://codeforces.com/profile/flyingsonu)
 
-[https://gitlab.com/flyingsonu736](https://gitlab.com/flyingsonu736)
+[hackerrank.com/flyingsonu736](https://www.hackerrank.com/flyingsonu736)
 
-[https://hashnode.com/@flyingsonu736](https://hashnode.com/@flyingsonu736)
+[gitlab.com/flyingsonu736](https://gitlab.com/flyingsonu736)
 
-[https://dev.to/flyingsonu122](https://dev.to/flyingsonu122)
+[hashnode.com/@flyingsonu736](https://hashnode.com/@flyingsonu736)
 
-[https://flyingsonu736.hashnode.dev/](https://flyingsonu736.hashnode.dev/)
+[dev.to/flyingsonu122](https://dev.to/flyingsonu122)
 
-[https://www.freecodecamp.org/flyingsonu](https://www.freecodecamp.org/flyingsonu)
+[flyingsonu736.hashnode.dev/](https://flyingsonu736.hashnode.dev/)
 
-[https://www.sololearn.com/Profile/16976820](https://www.sololearn.com/Profile/16976820)
+[freecodecamp.org/flyingsonu](https://www.freecodecamp.org/flyingsonu)
 
+[sololearn.com/Profile/16976820](https://www.sololearn.com/Profile/16976820)
 
 
 <br><br>
