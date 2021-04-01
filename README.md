@@ -47,7 +47,7 @@
 
 [repl.it/@flyingsonu736](https://repl.it/@flyingsonu736)
 
-[wa.me/919931060093](https://wa.me/919931060093)
+[WhatsApp](https://wa.me/919931060093)
 
 [codesandbox.io/u/flyingsonu122](https://codesandbox.io/u/flyingsonu122)
 
