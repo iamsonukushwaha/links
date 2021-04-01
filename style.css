@@ -11,8 +11,7 @@
   --Patua: "Patua One", monospace;
   --Lobster: "lobster", monospace;
   --light-black: #3d3535af;
-  --bggradient: linear-gradient(to bottom, #fff, #29f355);
-  --light-gray: rgba(238, 226, 226, 0.877);
+  --bggradient: linear-gradient(to bottom, rgb(235, 228, 228), #29f355);
 }
 
 
@@ -24,9 +23,23 @@
 .section-3 .links {
   text-align: center;
   padding-top: 40px;
+  padding-bottom: 70px;
 }
 
 button {
   margin-top: 40px;
-  min-width: 94vw;
+  min-width: 97vw;
+}
+
+#break {
+  padding-top: 100px;
+}
+
+@media only screen and (min-width: 600px) {
+  button {
+    min-width: 70vw;
+  }
+  p {
+    font-size: xx-large;
+  }
 }
