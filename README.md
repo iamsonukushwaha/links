@@ -23,7 +23,7 @@
 
 [keybase.io/flyingsonu736](https://keybase.io/flyingsonu736)
 
-[plu.us/sonukushwaha122 ](https://plu.us/sonukushwaha122 )
+[plu.us/sonukushwaha122](https://plu.us/sonukushwaha122)
 
 [instagram.com/flyingsonu736](https://www.instagram.com/flyingsonu736/)
 
