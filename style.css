@@ -14,7 +14,6 @@
 
 
 .section-3 {
-  min-height: 100vh;
   font-family: var(--Rubik);
   background: var(--bggradient);
 }
@@ -26,6 +25,5 @@
 
 button {
   margin-top: 40px;
-  min-width: 60vw;
-  /* max-width: 60vw; */
+  min-width: 94vw;
 }
