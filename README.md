@@ -13,6 +13,8 @@
 
 [sonu.live/youtube](https://www.sonu.live/youtube)
 
+[peerlist.io/sonukushwaha](https://peerlist.io/sonukushwaha)
+
 [topmate.io/sonukushwaha](https://topmate.io/sonukushwaha)
 
 [flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
