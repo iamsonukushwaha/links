@@ -13,6 +13,8 @@
 
 [sonu.live/youtube](https://www.sonu.live/youtube)
 
+[linkedin.com/company/singlebucks/](https://www.linkedin.com/company/singlebucks/)
+
 [peerlist.io/sonukushwaha](https://peerlist.io/sonukushwaha)
 
 [topmate.io/sonukushwaha](https://topmate.io/sonukushwaha)
