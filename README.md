@@ -1,17 +1,16 @@
-# See demo on **[sonu.live/links](https://www.sonu.live/links/)**
+# See demo on **[sonukushwaha.me/links](https://sonukushwaha.me/links/)**
 
 <br/><br/><br/>
 
+[sonukushwaha.me](https://sonukushwaha.me/)
 
 [sonukumarkushwaha.live](https://www.sonukumarkushwaha.live)
-
-[sonu.live](https://www.sonu.live)
 
 [singlebucks.live](https://www.singlebucks.live)
 
 [sonukushwaha.live](https://sonukushwaha.live)
 
-[sonu.live/youtube](https://www.sonu.live/youtube)
+[sonukushwaha.me/youtube](https://sonukushwaha.me/youtube)
 
 [linkedin.com/company/singlebucks/](https://www.linkedin.com/company/singlebucks/)
 
