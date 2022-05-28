@@ -22,7 +22,7 @@
 
 [github.com/flyingsonu122](https://github.com/flyingsonu122)
 
-[twitter.com/sonukumarkush12](https://twitter.com/sonukumarkush12)
+[twitter.com/iamsonukushwaha](https://twitter.com/iamsonukushwaha)
 
 [linktr.ee/flyingsonu](https://linktr.ee/flyingsonu)
 
