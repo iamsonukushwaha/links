@@ -10,7 +10,7 @@
 
 [sonukushwaha.live](https://sonukushwaha.live)
 
-[sonukushwaha.me/youtube](https://sonukushwaha.me/youtube)
+[https://youtube.com/@iamsonukushwaha](https://youtube.com/@iamsonukushwaha)
 
 [linkedin.com/company/singlebucks/](https://www.linkedin.com/company/singlebucks/)
 
@@ -18,7 +18,6 @@
 
 [topmate.io/sonukushwaha](https://topmate.io/sonukushwaha)
 
-[flyingsonu122.netlify.app](https://flyingsonu122.netlify.app/)
 
 [github.com/flyingsonu122](https://github.com/flyingsonu122)
 
