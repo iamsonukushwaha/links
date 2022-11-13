@@ -4,19 +4,18 @@
 
 [sonukushwaha.me](https://sonukushwaha.me/)
 
-[sonukumarkushwaha.live](https://www.sonukumarkushwaha.live)
 
-[singlebucks.live](https://www.singlebucks.live)
 
-[sonukushwaha.live](https://sonukushwaha.live)
 
 [https://youtube.com/@iamsonukushwaha](https://youtube.com/@iamsonukushwaha)
 
-[linkedin.com/company/singlebucks/](https://www.linkedin.com/company/singlebucks/)
+[linkedin.com/in/sonukumarkushwaha](https://www.linkedin.com/in/sonukumarkushwaha/)
 
-[peerlist.io/sonukushwaha](https://peerlist.io/sonukushwaha)
+[singlebucks.blogspot.com](https://singlebucks.blogspot.com/)
 
-[topmate.io/sonukushwaha](https://topmate.io/sonukushwaha)
+
+<!-- [linkedin.com/company/singlebucks/](https://www.linkedin.com/company/singlebucks/) -->
+
 
 
 [github.com/flyingsonu122](https://github.com/flyingsonu122)
@@ -31,9 +30,12 @@
 
 [gitstats.me/flyingsonu122](https://gitstats.me/flyingsonu122)
 
-[singlebucks.blogspot.com](https://singlebucks.blogspot.com/)
 
-[linkedin.com/in/sonukumarkushwaha](https://www.linkedin.com/in/sonukumarkushwaha/)
+
+
+[peerlist.io/sonukushwaha](https://peerlist.io/sonukushwaha)
+
+[topmate.io/sonukushwaha](https://topmate.io/sonukushwaha)
 
 [keybase.io/flyingsonu736](https://keybase.io/flyingsonu736)
 
@@ -41,7 +43,7 @@
 
 [instagram.com/flyingsonu736](https://www.instagram.com/flyingsonu736/)
 
-[facebook.com/sonukumarkushwaha736](https://www.facebook.com/sonukumarkushwaha736)
+[facebook.com/iamsonukushwaha](https://www.facebook.com/iamsonukushwaha)
 
 [medium.com/@sonukumarkushwaha](https://medium.com/@sonukumarkushwaha)
 
