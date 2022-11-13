@@ -51,7 +51,7 @@
 
 [vimeo.com/user101609312](https://vimeo.com/user101609312)
 
-[pinterest.com/sonukumarkushwaha736](https://in.pinterest.com/sonukumarkushwaha736/)
+[pinterest.com/iamsonukushwaha](https://in.pinterest.com/iamsonukushwaha)
 
 [kooapp.com/profile/SonuKumarKushwaha](https://www.kooapp.com/profile/SonuKumarKushwaha)
 
