@@ -2,49 +2,56 @@
 
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 :root {
-  --Sniglet-font: "Sniglet", monospace;
-  --Rubik: "Rubik", monospace;
-  --Patua: "Patua One", monospace;
-  --Lobster: "lobster", monospace;
-  --light-black: #3d3535af;
-  --bggradient: linear-gradient(to bottom, rgb(235, 228, 228), #29f355);
+    --Sniglet-font: "Sniglet", monospace;
+    --Rubik: "Rubik", monospace;
+    --Patua: "Patua One", monospace;
+    --Lobster: "lobster", monospace;
+    --light-black: #3d3535af;
+    --bggradient: linear-gradient(to bottom, rgb(235, 228, 228), #29f355);
 }
 
 
 .section-3 {
-  font-family: var(--Rubik);
-  background: var(--bggradient);
+    font-family: var(--Rubik);
+    background: var(--bggradient);
 }
 
 .section-3 .links {
-  text-align: center;
-  padding-top: 40px;
-  padding-bottom: 200px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 200px;
 }
 
 button {
-  margin-top: 40px;
-  min-width: 97vw;
+    margin-top: 40px;
+    min-width: 97vw;
 }
 
 #break {
-  padding-top: 100px;
+    padding-top: 100px;
 }
 
 p {
-  letter-spacing: 1px;
+    letter-spacing: 1px;
+}
+
+img {
+    width: 280px;
+    border-radius: 12px;
+    height: 200px;
 }
 
 @media only screen and (min-width: 600px) {
-  button {
-    min-width: 70vw;
-  }
-  p {
-    font-size: xx-large;
-    letter-spacing: 4px;
-  }
+    button {
+        min-width: 70vw;
+    }
+
+    p {
+        font-size: xx-large;
+        letter-spacing: 4px;
+    }
 }
