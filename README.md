@@ -1,8 +1,3 @@
-# See demo on **[sonukushwaha.me/links](https://sonukushwaha.me/links/)**
-
-<br/><br/><br/>
-
-[sonukushwaha.me](https://sonukushwaha.me/)
 
 
 https://youtu.be/g8QKN61FY1E
@@ -32,9 +27,6 @@ https://youtu.be/g8QKN61FY1E
 [devpost.com/flyingsonu736](https://devpost.com/flyingsonu736)
 
 [gitstats.me/flyingsonu122](https://gitstats.me/flyingsonu122)
-
-
-
 
 [peerlist.io/sonukushwaha](https://peerlist.io/sonukushwaha)
 
