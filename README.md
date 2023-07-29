@@ -60,7 +60,6 @@ https://youtu.be/g8QKN61FY1E
 
 [repl.it/@flyingsonu736](https://repl.it/@flyingsonu736)
 
-[WhatsApp](https://wa.me/919931060093)
 
 [codesandbox.io/u/flyingsonu122](https://codesandbox.io/u/flyingsonu122)
 
