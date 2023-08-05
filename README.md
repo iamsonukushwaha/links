@@ -38,6 +38,9 @@ https://youtu.be/g8QKN61FY1E
 
 [facebook.com/iamsonukushwaha](https://www.facebook.com/iamsonukushwaha)
 
+
+https://profiles.wordpress.org/iamsonukushwaha/
+
 [medium.com/@sonukumarkushwaha](https://medium.com/@sonukumarkushwaha)
 
 [yourquote.in/sonukumarkushwaha](https://www.yourquote.in/sonukumarkushwaha)
