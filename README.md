@@ -26,7 +26,7 @@ https://stackexchange.com/users/17571503/flyingsonu736
 
 [devpost.com/flyingsonu736](https://devpost.com/flyingsonu736)
 
-[gitstats.me/flyingsonu122](https://gitstats.me/flyingsonu122)
+[gitstats.me/iamsonukushwaha](https://gitstats.me/iamsonukushwaha)
 
 [peerlist.io/sonukushwaha](https://peerlist.io/sonukushwaha)
 
@@ -64,7 +64,7 @@ https://profiles.wordpress.org/iamsonukushwaha/
 [repl.it/@flyingsonu736](https://repl.it/@flyingsonu736)
 
 
-[codesandbox.io/u/flyingsonu122](https://codesandbox.io/u/flyingsonu122)
+[codesandbox.io/u/iamsonukushwaha](https://codesandbox.io/u/iamsonukushwaha)
 
 [stackoverflow.com/users/12747159/flyingsonu736](https://stackoverflow.com/users/12747159/flyingsonu736)
 
@@ -80,7 +80,7 @@ https://profiles.wordpress.org/iamsonukushwaha/
 
 [hashnode.com/@flyingsonu736](https://hashnode.com/@flyingsonu736)
 
-[dev.to/flyingsonu122](https://dev.to/flyingsonu122)
+[dev.to/iamsonukushwaha](https://dev.to/iamsonukushwaha)
 
 [flyingsonu736.hashnode.dev](https://flyingsonu736.hashnode.dev/)
 
