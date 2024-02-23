@@ -15,7 +15,7 @@
 
 [twitter.com/iamsonukushwaha](https://twitter.com/iamsonukushwaha)
 
-[linktr.ee/flyingsonu](https://linktr.ee/flyingsonu)
+[linktr.ee/iamsonukushwaha](https://linktr.ee/iamsonukushwaha)
 
 [profiles.wordpress.org/iamsonukushwaha](https://profiles.wordpress.org/iamsonukushwaha/)
 
