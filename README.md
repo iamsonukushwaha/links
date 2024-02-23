@@ -1,8 +1,4 @@
 
-
-https://profiles.wordpress.org/iamsonukushwaha/
-
-
 [https://youtube.com/@flyingsonu736](https://youtube.com/@flyingsonu736)
 
 [https://youtube.com/@iamsonukushwaha](https://youtube.com/@iamsonukushwaha)
@@ -11,16 +7,17 @@ https://profiles.wordpress.org/iamsonukushwaha/
 
 [singlebucks.blogspot.com](https://singlebucks.blogspot.com/)
 
+[linkedin.com/company/singlebucks/](https://www.linkedin.com/company/singlebucks/) 
 
- [linkedin.com/company/singlebucks/](https://www.linkedin.com/company/singlebucks/) 
-
-https://stackexchange.com/users/17571503/flyingsonu736
+[stackexchange.com/users/17571503/flyingsonu736](https://stackexchange.com/users/17571503/flyingsonu736)
 
 [github.com/iamsonukushwaha](https://github.com/iamsonukushwaha)
 
 [twitter.com/iamsonukushwaha](https://twitter.com/iamsonukushwaha)
 
 [linktr.ee/flyingsonu](https://linktr.ee/flyingsonu)
+
+[profiles.wordpress.org/iamsonukushwaha](https://profiles.wordpress.org/iamsonukushwaha/)
 
 [npmjs.com/~flyingsonu736](https://www.npmjs.com/~flyingsonu736)
 
@@ -39,9 +36,6 @@ https://stackexchange.com/users/17571503/flyingsonu736
 [instagram.com/flyingsonu736](https://www.instagram.com/flyingsonu736/)
 
 [facebook.com/iamsonukushwaha](https://www.facebook.com/iamsonukushwaha)
-
-
-https://profiles.wordpress.org/iamsonukushwaha/
 
 [medium.com/@sonukumarkushwaha](https://medium.com/@sonukumarkushwaha)
 
@@ -63,7 +57,6 @@ https://profiles.wordpress.org/iamsonukushwaha/
 
 [repl.it/@flyingsonu736](https://repl.it/@flyingsonu736)
 
-
 [codesandbox.io/u/iamsonukushwaha](https://codesandbox.io/u/iamsonukushwaha)
 
 [stackoverflow.com/users/12747159/flyingsonu736](https://stackoverflow.com/users/12747159/flyingsonu736)
@@ -84,7 +77,7 @@ https://profiles.wordpress.org/iamsonukushwaha/
 
 [flyingsonu736.hashnode.dev](https://flyingsonu736.hashnode.dev/)
 
-[freecodecamp.org/flyingsonu](https://www.freecodecamp.org/flyingsonu)
+[freecodecamp.org/iamsonukushwaha](https://www.freecodecamp.org/iamsonukushwaha)
 
 [sololearn.com/Profile/16976820](https://www.sololearn.com/Profile/16976820)
 
