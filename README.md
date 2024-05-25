@@ -1,11 +1,7 @@
 
-https://www.codechef.com/users/flyingsonu
+[https://www.codechef.com/users/flyingsonu](https://www.codechef.com/users/flyingsonu)
 
-https://leetcode.com/u/flyingsonu736/
-
-
-
-
+[https://leetcode.com/u/flyingsonu736/](https://leetcode.com/u/flyingsonu736/)
 
 [https://youtube.com/@flyingsonu736](https://youtube.com/@flyingsonu736)
 
@@ -79,11 +75,9 @@ https://leetcode.com/u/flyingsonu736/
 
 [gitlab.com/flyingsonu736](https://gitlab.com/flyingsonu736)
 
-[hashnode.com/@flyingsonu736](https://hashnode.com/@flyingsonu736)
+[hashnode.com/@iamsonukushwaha](https://hashnode.com/@iamsonukushwaha)
 
 [dev.to/iamsonukushwaha](https://dev.to/iamsonukushwaha)
-
-[flyingsonu736.hashnode.dev](https://flyingsonu736.hashnode.dev/)
 
 [freecodecamp.org/iamsonukushwaha](https://www.freecodecamp.org/iamsonukushwaha)
 
